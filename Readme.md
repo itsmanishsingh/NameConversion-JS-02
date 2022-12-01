@@ -12,6 +12,10 @@ Different Naming Convention
 1. Kebab Case
 1. Screaming Kebab Case
 
-
+*****
 # Output
 ![output](./Image/output.png)
+
+***
+## [Linkedin-Manish](www.linkedin.com/in/manish-kumar-b0639a170)
+## [FindCoder-Manish](https://www.findcoder.io/u/itmanishsingh)
