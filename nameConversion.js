@@ -1,5 +1,4 @@
 
-
 function myFunction() {
   const word = document.getElementById("text").value;
 
